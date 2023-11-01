@@ -5,3 +5,7 @@ Remember that you HAVE TO follow my explanation of the company and exapmples of 
 If you understand this, just say YES and nothing more. 
 
 ## Example (real thing I asked!)
+
+I am going to start a new company and the product is a UNIX like operating system based on FreeBSD. Now, I need a name for this company. 
+Also, here are some other companies used the same technology: Apple, NeXT, iXSystems. 
+Based on the idea and the name, give me my name candidates.
