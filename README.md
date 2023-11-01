@@ -1,0 +1,1 @@
+# ChatGPT Super-Prompts for naming companies or projects
