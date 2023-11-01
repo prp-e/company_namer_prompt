@@ -8,4 +8,5 @@ If you understand this, just say YES and nothing more.
 
 I am going to start a new company and the product is a UNIX like operating system based on FreeBSD. Now, I need a name for this company. 
 Also, here are some other companies used the same technology: Apple, NeXT, iXSystems. 
+Also remember to NOT TO USE Open, Free or Libre in the names.
 Based on the idea and the name, give me my name candidates.
